@@ -228,23 +228,6 @@ For questions about this implementation or collaboration opportunities:
 - 📧 Competition Track 2 Lead: [farah.shamout@nyu.edu](mailto:farah.shamout@nyu.edu)
 - 🌐 Competition Website: [AraHealthQA 2025](https://sites.google.com/nyu.edu/arahealthqa-2025/home)
 
----
-
-## 📄 Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@misc{arahealthqa2025_2ndplace,
-  title={AraHealthQA 2025: 2nd Place Solution for Arabic Medical Question Answering},
-  author={[Your Team Name]},
-  year={2025},
-  howpublished={ArabicNLP 2025 @ EMNLP 2025},
-  note={2nd Place Winner - Tracks: Multiple Choice QA \& Open-ended QA}
-}
-```
-
----
 
 <div align="center">
 
